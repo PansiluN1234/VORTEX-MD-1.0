@@ -38,6 +38,7 @@
     "xml2js":"^0.6.2",
     "cheerio":"^1.0.0",
     "@shineiichijo/marika":"^3.0.1",
-    "@vitalets/google-translate-api":"^9.2.1"
+    "@vitalets/google-translate-api":"^9.2.1",
+    "os":"^0.1.2 "
   }
 }
